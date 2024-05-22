@@ -29,7 +29,7 @@ Experienced Senior Data Analyst with a strong background in Python and SQL. Over
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,sql,github,excel,tableau" /><br>
+    <img src="https://skillicons.dev/icons?i=python,mysql,github,sklearn,html," /><br>
 </div>
 
 <br/>
